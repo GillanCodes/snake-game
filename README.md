@@ -8,8 +8,11 @@ A small snake game made in C
 How to play :
 
 	1 - Download main.c
-	2 - `gcc -o snake main.c`
-	3 - `./snake`
+
+	In Terminal : 
+
+	2 - "gcc -o snake main.c"
+	3 - "./snake"
 
 ---
 
